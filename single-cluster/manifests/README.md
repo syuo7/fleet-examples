@@ -14,3 +14,4 @@ spec:
   paths:
   - single-cluster/manifests
 ```
+test
